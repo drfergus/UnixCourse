@@ -5,4 +5,4 @@ Description: make a program called guessinggame.sh. This program should continuo
 
 Make date: Sept 14 16:26:16 2022
 
-Number of lines in guessinggame.sh:
+Number of lines in guessinggame.sh: 23
